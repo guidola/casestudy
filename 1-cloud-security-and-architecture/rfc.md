@@ -8,7 +8,7 @@ In our existing setup, we currently deploy our public web server across three EC
 
 ## Current architecture
 
-![current architecture](image.png)
+![current architecture](imgs/original_architecture.png)
 
 - Terraform playbook executed from local laptop
 - public load balancer assigned sec group A - azs a,b,c
